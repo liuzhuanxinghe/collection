@@ -1,0 +1,114 @@
+C:\Users\WSONG\Desktop\JYPXI62005.Examples\Analog Input\Winform AI Continuous Digital Trigger\bin\Debug\f_AICont.exe.config
+C:\Users\WSONG\Desktop\JYPXI62005.Examples\Analog Input\Winform AI Continuous Digital Trigger\obj\Debug\f_AICont.Properties.Resources.resources
+C:\Users\WSONG\Desktop\JYPXI62005.Examples\Analog Input\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPXIE69852.MainForm.resources
+C:\Users\WSONG\Desktop\JYPXI62005.Examples\Analog Input\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csproj.GenerateResource.Cache
+C:\Users\WSONG\Desktop\JYPXI62005.Examples\Analog Input\Winform AI Continuous Digital Trigger\bin\Debug\f_AICont.exe
+C:\Users\WSONG\Desktop\JYPXI62005.Examples\Analog Input\Winform AI Continuous Digital Trigger\bin\Debug\f_AICont.pdb
+C:\Users\WSONG\Desktop\JYPXI62005.Examples\Analog Input\Winform AI Continuous Digital Trigger\bin\Debug\JYPXIE69852.dll
+C:\Users\WSONG\Desktop\JYPXI62005.Examples\Analog Input\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.dll
+C:\Users\WSONG\Desktop\JYPXI62005.Examples\Analog Input\Winform AI Continuous Digital Trigger\bin\Debug\JYPXIE69852.xml
+C:\Users\WSONG\Desktop\JYPXI62005.Examples\Analog Input\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.xml
+C:\Users\WSONG\Desktop\JYPXI62005.Examples\Analog Input\Winform AI Continuous Digital Trigger\obj\Debug\f_AICont.exe
+C:\Users\WSONG\Desktop\JYPXI62005.Examples\Analog Input\Winform AI Continuous Digital Trigger\obj\Debug\f_AICont.pdb
+\\Mac\Home\Desktop\JYPXI6916H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\f_AICont.exe.config
+\\Mac\Home\Desktop\JYPXI6916H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\f_AICont.exe
+\\Mac\Home\Desktop\JYPXI6916H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\f_AICont.pdb
+\\Mac\Home\Desktop\JYPXI6916H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\JYPXI69816H.dll
+\\Mac\Home\Desktop\JYPXI6916H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.dll
+\\Mac\Home\Desktop\JYPXI6916H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\JYPXI69816H.xml
+\\Mac\Home\Desktop\JYPXI6916H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.xml
+\\Mac\Home\Desktop\JYPXI6916H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\f_AICont.Properties.Resources.resources
+\\Mac\Home\Desktop\JYPXI6916H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPXI69816H.MainForm.resources
+\\Mac\Home\Desktop\JYPXI6916H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\JYPXI6916H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\f_AICont.exe
+\\Mac\Home\Desktop\JYPXI6916H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\f_AICont.pdb
+\\Mac\Home\Desktop\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\f_AICont.exe.config
+\\Mac\Home\Desktop\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\f_AICont.exe
+\\Mac\Home\Desktop\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\f_AICont.pdb
+\\Mac\Home\Desktop\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\JYPXI69816H.dll
+\\Mac\Home\Desktop\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.dll
+\\Mac\Home\Desktop\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\JYPXI69816H.xml
+\\Mac\Home\Desktop\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.xml
+\\Mac\Home\Desktop\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\f_AICont.Properties.Resources.resources
+\\Mac\Home\Desktop\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPXI69816H.MainForm.resources
+\\Mac\Home\Desktop\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\f_AICont.exe
+\\Mac\Home\Desktop\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\f_AICont.pdb
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe.config
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.pdb
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\JYPXI69816H.dll
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.dll
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\JYPXI69816H.xml
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.xml
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPXI69816H.Properties.Resources.resources
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPXI69816H.MainForm.resources
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csproj.GenerateResource.Cache
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.exe
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.pdb
+J:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csprojResolveAssemblyReference.cache
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe.config
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.exe
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.pdb
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.pdb
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\JYPXI69816H.dll
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.dll
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\JYPXI69816H.xml
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.xml
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csprojResolveAssemblyReference.cache
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPXI69816H.Properties.Resources.resources
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPXI69816H.MainForm.resources
+D:\范例修改\JYPXI69816H.Examples\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csproj.GenerateResource.Cache
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe.config
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.exe
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.pdb
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.pdb
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\bin\Debug\JYPXI69816H.dll
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.dll
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\bin\Debug\JYPXI69816H.xml
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.xml
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csprojResolveAssemblyReference.cache
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPXI69816H.Properties.Resources.resources
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPXI69816H.MainForm.resources
+F:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csproj.GenerateResource.Cache
+J:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe.config
+J:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.exe
+J:\范例修改\Digitizer\JYPXI69816H.Examples20170318\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.pdb
+\\Mac\Home\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe.config
+\\Mac\Home\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe
+\\Mac\Home\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.pdb
+\\Mac\Home\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\JYPCI69816H.dll
+\\Mac\Home\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.dll
+\\Mac\Home\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\JYPCI69816H.xml
+\\Mac\Home\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.xml
+\\Mac\Home\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPXI69816H.Properties.Resources.resources
+\\Mac\Home\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPCI69816H.MainForm.resources
+\\Mac\Home\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.exe
+\\Mac\Home\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.pdb
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe.config
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.pdb
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\JYPCI69816H.dll
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.dll
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\JYPCI69816H.xml
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.xml
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPXI69816H.Properties.Resources.resources
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPCI69816H.MainForm.resources
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.exe
+\\Mac\Home\Desktop\范例\Digitizer\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.pdb
+C:\Users\PC\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe.config
+C:\Users\PC\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.exe
+C:\Users\PC\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\Winform AI Continuous Digital Trigger.pdb
+C:\Users\PC\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\JYPCI69816H.xml
+C:\Users\PC\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\bin\Debug\SeeSharpTools.JY.GUI.xml
+C:\Users\PC\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPXI69816H.Properties.Resources.resources
+C:\Users\PC\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\SeeSharpExample.JY.JYPCI69816H.MainForm.resources
+C:\Users\PC\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.exe
+C:\Users\PC\Desktop\JYPCI69816H.Examples20180116\Winform AI Continuous Digital Trigger\obj\Debug\Winform AI Continuous Digital Trigger.pdb
